@@ -44,7 +44,7 @@
 ## ° Contribuições em 3D
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="90%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="90%"/>
 
 </div>
 
