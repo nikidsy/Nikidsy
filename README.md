@@ -48,11 +48,4 @@
 
 </div>
 
-
-<div align="center" style="background-color:#1e1e2e; padding:20px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: inline-flex; gap:20px; flex-wrap: wrap; justify-content: center;">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana2716&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" width="250"/>
-
-</div>
-
 ---
