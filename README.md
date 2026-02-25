@@ -1,5 +1,5 @@
 
-<h1 align="center"> Nikollas Oliveira </h1>
+<h1 align="center"> Niki </h1>
 <p align="center"> Estudante técnico de Analise e Desenvolvimento de Sistemas </p>
 
 ---
